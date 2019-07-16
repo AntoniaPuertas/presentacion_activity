@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/productos"
+            android:icon="@drawable/carretilla"
+            android:title="Productos" />
+        <item
+            android:id="@+id/ideas"
+            android:icon="@drawable/cocina"
+            android:title="Ideas de cocinas" />
+        <item
+            android:id="@+id/localizacion"
+            android:icon="@drawable/pin"
+            android:title="Ubicación " />
+        <item
+            android:id="@+id/web"
+            android:icon="@drawable/web"
+            android:title="Web" />
+        <item
+            android:id="@+id/llamar"
+            android:icon="@drawable/telephone"
+            android:title="Llamar " />
+        <item
+            android:id="@+id/informacion"
+            android:icon="@drawable/informacion"
+            android:title="Información" />
+    </group>
+
+    <item android:title="Opciones para compartir">
+        <menu>
+            <item
+                android:id="@+id/compartir_aplicacion"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Compartir Aplicación" />
+            <item
+                android:id="@+id/compartir_localizacion"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Compartir Ubicación " />
+            <item
+                android:id="@+id/compartir_web"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Compartir Web" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Cocinas MC</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="condiciones_generales">El Usuario se obliga a hacer un uso correcto de la app de conformidad con la
+Ley y el presente Aviso Legal. El Usuario responderá frente a Cocinas MC o frente
+A terceros, de cualquier daños y perjuicios que pudieran causarse como
+Consecuencia del incumplimiento de dicha obligación.\n
+Queda expresamente prohibido el uso de la Web y la App con fines lesivos de
+Bienes o intereses de Cocinas MC o de terceros o que de cualquier otra forma
+Sobrecarguen, dañen o inutilicen las redes, servidores y demás equipos
+Informáticos (hardware) o productos y aplicaciones informáticas (software) de
+Cocinas MC o de terceros.\n
+El Usuario se compromete a utilizar los Contenidos de conformidad con la Ley
+Y el presente Aviso Legal, así como con las demás condiciones, reglamentos e
+Instrucciones que en su caso pudieran ser de aplicación de conformidad con lo
+Dispuesto en el aviso legal.\n
+Con carácter meramente enunciativo, el Usuario de acuerdo con la legislación
+Vigente deberá abstenerse de:\n
+•Reproducir, copiar, distribuir, poner a disposición, comunicar públicamente,
+Transformar o modificar los Contenidos salvo en los casos autorizados en la ley
+O expresamente consentidos por Cocinas MC o por quien ostente la titularidad de
+Los derechos de explotación en su caso.\n
+•Reproducir o copiar para uso privado los Contenidos que puedan ser
+Considerados como Software o Base de Datos de conformidad con la
+Legislación vigente en materia de propiedad intelectual, así como su
+Comunicación pública o puesta a disposición de terceros cuando estos actos
+Impliquen necesariamente la reproducción por parte del Usuario o de un
+tercero.\n
+•Extraer y/o reutilizar la totalidad o una parte sustancial de los Contenidos
+Integrantes de la Web así como de las bases de datos que Cocinas MC pongan A disposición de los Usuarios.\n
+Toda la información que facilite el Usuario a través de los formularios de la Web
+A los efectos anteriores o cualesquiera otros deberá ser cierta. A estos efectos,
+El Usuario garantiza la autenticidad de todos aquellos datos que comunique y
+Mantendrá la información facilitada a Cocinas MC perfectamente actualizada de forma que responda, en todo momento, a la situación real del Usuario. En todo caso será el Usuario el único responsable de las manifestaciones falsas o
+Inexactas que realice y de los perjuicios que cause a Cocinas MC o a terceros por la información que facilite.\n
+
+
+ </string>
+    <string name="aviso_legal">"De acuerdo con el artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios De la Sociedad de la Información y de Comercio Electrónico ponemos a su Disposición los siguientes datos:\\Cocinas está domiciliada en la Calle Catalina de Erauso, 9 – 2º C, con NIF 35.777.256C. En la app y en la Web  hay una serie de contenidos de carácter informativo Sobre cocinas, aparatos electrónicos, muebles entre otros.\\su principal Objetivo es facilitar a los clientes y al público en general, la información relativa De las cocinas  más clásicas hasta las más modernas.   la utilización de la Web y la App atribuyen la condición de usuario de la Web y la App (en adelante, El “Usuario”) e implica la aceptación de todas las condiciones incluidas en este Aviso Legal.   Todos los contenidos de la Web y la App, son  meramente enunciativo los textos, fotos, gráficos, imágenes, Iconos, links y cualquiera otros contenidos audiovisuales o sonoros, así como su Diseño gráfico y códigos fuente (en adelante, los “Contenidos”), son propiedad Intelectual de Cocinas MC. Sin que puedan entenderse cedidos al Usuario ninguno de los derechos de explotación sobre los mismos más allá de Lo estrictamente necesario para el correcto uso de la Web y la App.  Las marcas, Nombres comerciales o signos distintivos son titularidad de Cocinas MC o terceros, Sin que pueda entenderse que el acceso a la Web y la App atribuya ningún Derecho sobre las citadas marcas, nombres comerciales y/o signos distintivos. "</string>
+    <string name="politica_privacidad">"Política de Privacidad establece los términos en que Cocinas MC usa y protege la información que es proporcionada por sus usuarios al momento de utilizar esta aplicación. Esta compañía está comprometida con la seguridad de los datos de sus usuarios. Cuando le pedimos acceso a su información personal con la cual usted pueda ser identificado, lo hacemos asegurando que sólo se empleará de acuerdo con los términos de este documento. Sin embargo esta Política de Privacidad puede cambiar con el tiempo o ser actualizada por lo que le recomendamos y enfatizamos revisar continuamente esta aplicación para asegurarse que está de acuerdo con dichos cambios. Este aplicación pudiera contener enlaces a otros sitios que pudieran ser de su interés.En cualquier momento usted puede restringir la recopilación o el uso de la información personal que es proporcionada a nuestra aplicación. Cocinas MC Se reserva el derecho de cambiar los términos de la presente Política de Privacidad en cualquier momento. "</string>
+    <string name="menu_aviso">Aviso Legal</string>
+    <string name="menu_condiciones">Condiciones Generales</string>
+    <string name="menu_politica">Politica de Privacidad</string>
+
+
+</resources>

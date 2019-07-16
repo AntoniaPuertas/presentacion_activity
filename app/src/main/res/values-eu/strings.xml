@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Cocinas MC</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">hasiera</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Bidali</string>
+    <string name="condiciones_generales">Pribatutasun politika Cocinas MC-ek erabiltzaileek aplikazio hau erabiltzen dutenean ematen duen informazioa babesten duen terminoak ezartzen ditu. Enpresa hau erabiltzaileen segurtasunarekin konprometituta dago. Identifikatu ahal izateko zure informazio pertsonala atzitzeko eskatzen dugunean, dokumentu honen baldintzekin bat etorriz bakarrik erabiliko dela egiaztatzen dugu. Hala ere, Pribatutasun Politika hau denboran zehar alda daiteke edo gomendatzen dena eguneratu daiteke eta gomendagarria da etengabe berrikustea aplikazio hau aldaketa horiek onartzen dituzula ziurtatzeko. Aplikazio honek zure interesekoak izan daitezkeen beste gune batzuetarako estekak izan ditzake. Gure aplikazioan emandako informazio pertsonala biltzea edo erabiltzea mugatu dezakezu. MC Cookers-ek pribatutasun politika honen baldintzak edonoiz aldatzeko eskubidea du.
+</string>
+    <string name="politica_privacidad">Pribatutasun politika Cocinas MC-ek erabiltzaileek aplikazio hau erabiltzen dutenean ematen duen informazioa babesten duen terminoak ezartzen ditu. Enpresa hau erabiltzaileen segurtasunarekin konprometituta dago. Identifikatu ahal izateko zure informazio pertsonala atzitzeko eskatzen dugunean, dokumentu honen baldintzekin bat etorriz bakarrik erabiliko dela egiaztatzen dugu. Hala ere, Pribatutasun Politika hau denboran zehar alda daiteke edo gomendatzen dena eguneratu daiteke eta gomendagarria da etengabe berrikustea aplikazio hau aldaketa horiek onartzen dituzula ziurtatzeko. Aplikazio honek zure interesekoak izan daitezkeen beste gune batzuetarako estekak izan ditzake. Gure aplikazioan emandako informazio pertsonala biltzea edo erabiltzea mugatu dezakezu. MC Cookers-ek pribatutasun politika honen baldintzak edonoiz aldatzeko eskubidea du.
+</string>
+    <string name="action_settings">ezarpenak</string>
+    <string name="aviso_legal">10. artikulua 34/2002Legea, uztailaren 11koa arabera, Informazioaren Gizartearen eta Merkataritza Elektronikoaren ondorengo informazioa ematen dugu zerbitzuak: \\ Kitchen dago Catalina Street Erauso 9 helbideratutako - 2 º C, NIF 35.777.256C. aplikazioan eta webean dago edukirik buruz sukaldeak, elektronika, altzariak eta beste batzuk informazio-kopuru bat dira. \\ Bere helburu nagusia bezeroei eta oro har, eta sukaldeak klasikoena informazio arte eskaintzea modernoagoa. Web eta aplikazioa erabiltzea egotzi Web erabiltzaile eta aplikazioa baldintza (aurrerantzean \"Erabiltzaile\") eta lege ohar honetan jasotako baldintza guztiak onartzea dakar. Web eta aplikazioa eduki guztiak ez dira testua, irudiak, grafikoak, irudiak, ikonoak, estekak eta beste edozein ikus-entzunezko edo audio edukia, baita diseinu grafiko eta iturburu-kodea (aurrerantzean, \"edukia\") eta mugatuta jabetza intelektualaren Kitchen MC dira. ari Erabiltzaileak transferitu eskubide horietako zer da zorrozki Web eta aplikazioa erabilera egokia egiteko beharrezko haratago ustiatzeko gabe. marka, izen komertzial edo logotipoak Kitchen MC edo hirugarrenek jabetzakoa, gabe ulertu ahal izango da sarera sartzeko dituzten eta aplikazioa die eskubide inolako marka, izen komertzial eta / edo logotipo bat.</string>
+    <string name="menu_aviso">Lege oharra</string>
+    <string name="menu_condiciones">Baldintza Orokorrak</string>
+    <string name="menu_politica">Pribatutasun politika</string>
+</resources>
