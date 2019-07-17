@@ -13,9 +13,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <!--Theme.Dialog muestra la activity como una ventana emergente-->
-        <activity android:name=".ZoomActivity"
-
-            android:theme="@style/Theme.AppCompat.Light.Dialog"></activity>
+        <activity
+            android:name=".ZoomActivity"
+            android:theme="@style/TransparentCompat"
+            android:parentActivityName="com.example.Bienvenido_cocinas_MC_activity.Ideas_cocinasActivity"></activity>
         <activity android:name=".Ideas_cocinasActivity" />
         <activity android:name="com.example.presentacion_activity.Aviso_legalActivity" />
         <activity
